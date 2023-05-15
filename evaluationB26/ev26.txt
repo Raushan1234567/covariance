@@ -1,0 +1,6 @@
+Q1
+part1:
+a)True
+b)False
+c)False
+d)True
